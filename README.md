@@ -17,6 +17,5 @@ e.g. [LeetCode] Add Two Numbers
 
 The first comment in the issue should be the full problem itself.
 
-### 3/ Paste a link to your solution (e.g. a link to your repl.it) and the full code as a reply in the issue thread.
-
-
+### 3/ Paste a link to your solution (e.g. a link to your repl.it) as a reply in the issue thread.
+You can optionally paste your full code too, using backticks like ```this```.
