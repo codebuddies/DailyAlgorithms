@@ -1,4 +1,4 @@
-# Daily Algorithms - Repository of your Solutions
+# Daily Algorithms - Repository of Solutions
 How to participate: 
 
 1/ Find a coding challenge / a coding problem and solve it. 
