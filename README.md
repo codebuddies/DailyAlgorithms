@@ -21,5 +21,7 @@ The first comment in the issue should be the full problem itself.
 You can optionally paste your full code too, using backticks like ```this```. 
 
 e.g. https://repl.it/@lpatmo/SoftSlightGraphicslibrary
+
 Javascript solution:
+
 ```Full code```
