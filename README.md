@@ -2,7 +2,7 @@
 ## How to participate: 
 
 ###  1/ Find a coding challenge / a coding problem 
-Solve it. 
+The problem can be easy, intermediate, or difficult -- it doesn't matter. :) The challenge is to find some time to solve it.  
 
 ### 2/ Create a Github issue for it, if you don't already see it. 
 
